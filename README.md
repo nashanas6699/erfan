@@ -1,1 +1,1 @@
-# erfan
+{"اسم":"1.2","کپشن":"rubika://l.rubika. ir/DLSTORY_plus","پست":"https://images.app.goo.gl/touuenmWe8o4JiJk7","پروفایل":"https://images.app.goo.gl/touuenmWe8o4JiJk7","دانلود":"https://images.app.goo.gl/touuenmWe8o4JiJk7","کپی":"هیچ مشکلی وجود ندارد"}
