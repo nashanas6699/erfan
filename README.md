@@ -1,1 +1,1 @@
-{"اسم":"1.2","کپشن":"rubika://l.rubika. ir/DLSTORY_plus","پست":"https://images.app.goo.gl/touuenmWe8o4JiJk7","پروفایل":"https://images.app.goo.gl/touuenmWe8o4JiJk7","دانلود":"https://images.app.goo.gl/touuenmWe8o4JiJk7","کپی":"هیچ مشکلی وجود ندارد"}
+{"نام‌کانال":"1.2","ایدی کانال":"@Logo_sazi_pishgam","ایکون کانال":"https://images.app.goo.gl/touuenmWe8o4JiJk7","کپی لینک کانال":"https://rubika.ir/Logo_sazi_pishgam"}
