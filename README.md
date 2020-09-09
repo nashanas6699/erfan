@@ -1,1 +1,1 @@
-{"نام‌کانال":"1.2","ایدی کانال":"@Logo_sazi_pishgam","ایکون کانال":"https://images.app.goo.gl/touuenmWe8o4JiJk7","کپی لینک کانال":"https://rubika.ir/Logo_sazi_pishgam"}
+[{"نام کانال":"1.2","ای دی کانال":"learn_shop","ایکون کانال":"https://images.app.goo.gl/touuenmWe8o4JiJk7","کپی لینک کانال":"@learn_Shop"}]
